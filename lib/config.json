@@ -1,0 +1,19 @@
+{
+  "thumb": "https://telegra.ph/file/466ba9fb6fa99d7aba80d.jpg",
+  "namebot": "Senkuu",
+  "botNumber": "6285600757490@s.whatsapp.net",
+  "owner": ["6285799227173@s.whatsapp.net"],
+  "instagram": "https://instagram.com/itsme_emon01",
+  "author": "Emon",
+  "session": "session",
+  "email": "bansos@gmail.com",
+  "self": false,
+  "packInfo":{
+    "packname": "BotMee-MD",
+    "author": "Call Me Emon"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
