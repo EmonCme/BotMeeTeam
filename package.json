@@ -1,6 +1,6 @@
 {
   "name": "senkuu-md",
-  "version": "4.1.0",
+  "version": "0.0.5",
   "main": "main.js",
   "depecrated": false,
   "author": "Senkuu",
@@ -9,7 +9,7 @@
     "format": "prettier --write '**/*.{md,js,json}'"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "latest",
+    "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@vitalets/google-translate-api": "^7.0.0",
     "@hapi/boom": "^9.1.4",
