@@ -27,8 +27,8 @@ module.exports = {
         await fs.writeFileSync(filepath, buff)
 	    	let file = await ra.UploadFile(filepath);
 				const packInfo = {
-          packname: "Senkuu BOT",
-          author: "Beta✓",
+          packname: "Botmeee-MD",
+          author: "Call Me Emon",
         }
         //const url = await encodeurl(`https://api.memegen.link/images/custom/${t1}/${t2}.png?background=${file.result.namaFile}`)
         const stickerBuff = await sticker(await conn.getBuffer(`https://api.memegen.link/images/custom/${t1}/${t2}.png?background=${file.result.namaFile}`), {
