@@ -69,7 +69,7 @@ const ReadFitur = () => {
 					isQAudio: false,
 					isQImage: false,
 					isQSticker: false,
-					isQDocument: true,
+					isQDocument: false,
 				},
 				disable: false,
 				isUrl: false,
